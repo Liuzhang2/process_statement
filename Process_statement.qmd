@@ -1,7 +1,7 @@
 ---
 title: "Process_statement"
 author: "Lily"
-format: html
+format: pdf
 ---
 
 ## Achievements:
@@ -12,8 +12,13 @@ format: html
 ## Challenges:
 - Mastering R Programming: The steep learning curve of R programming was a major challenge due to my limited background in computer science, but I find it's really intersting. 
 - Data Integration: Manipulating complex data sets to meet research objectives required meticulous effort and tested my problem-solving skills.
+
 ## Overcoming Challenges:
 - Structured Learning and Practice: I tackled the difficulties with R through structured learning, online resources, and peer assistance.
 - Collaborative Learning: Engaging with peers provided crucial support, helping me navigate the complexities of data analysis.
+
 ## Conclusion:
 - This project significantly enhanced my technical and research skills, providing a strong foundation for my future academic and professional pursuits in language science.
+
+## Gratitude
+- Thanks to Dr. Francom's well-organized materials and great teaching. 
