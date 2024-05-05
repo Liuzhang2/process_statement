@@ -1,0 +1,19 @@
+---
+title: "Process_statement"
+author: "Lily"
+format: html
+---
+
+## Achievements:
+- Deepened Understanding of Localization: I gained significant insights into the impact of cultural adaptations on tourism guides for Chinese visitors.
+- Quantitative Text Analysis Skills: I developed the ability to conduct text analysis using R, enhancing my ability to interpret and utilize textual data in research.
+- Commitment to Reproducible Research: I learned the importance of maintaining rigorous standards in documenting and sharing scientific work.
+
+## Challenges:
+- Mastering R Programming: The steep learning curve of R programming was a major challenge due to my limited background in computer science, but I find it's really intersting. 
+- Data Integration: Manipulating complex data sets to meet research objectives required meticulous effort and tested my problem-solving skills.
+## Overcoming Challenges:
+- Structured Learning and Practice: I tackled the difficulties with R through structured learning, online resources, and peer assistance.
+- Collaborative Learning: Engaging with peers provided crucial support, helping me navigate the complexities of data analysis.
+## Conclusion:
+- This project significantly enhanced my technical and research skills, providing a strong foundation for my future academic and professional pursuits in language science.
